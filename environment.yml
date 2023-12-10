@@ -1,0 +1,12 @@
+name: PythonAssignment
+channels:
+  - conda-forge
+dependencies:
+  - python = 3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - matplotlib-inline
+  - streamlit
+  - black
